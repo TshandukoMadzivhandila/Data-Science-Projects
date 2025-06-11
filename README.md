@@ -57,5 +57,4 @@ Feel free to explore the folders to follow my learning path.
 ---
 
 ## 🧑‍💻 About Me
-**Your Name**  
 Aspiring data scientist, continuously learning through doing.
